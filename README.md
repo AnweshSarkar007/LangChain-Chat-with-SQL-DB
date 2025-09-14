@@ -29,7 +29,7 @@ The system automatically:
 * Streamlit – User interface (optional)
 * OpenAI API (or other LLMs) – For natural language understanding
 
-
+```
 
 1. Clone the repository
 
@@ -44,11 +44,11 @@ bash
 pip install -r requirements.txt
 
 
-3. Set your OpenAI API key** (or another LLM key)
+3. Set your Grok API key(or another LLM key)
 
 bash
 export Grok_API_KEY="your_api_key_here"
-```
+
 
 4. Run the app
 
