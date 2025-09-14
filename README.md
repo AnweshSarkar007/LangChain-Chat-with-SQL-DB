@@ -3,8 +3,8 @@ LangChain: Chat with SQL DB
 Interact with your SQL databases using **natural language** instead of writing SQL queries.
 This project integrates **LangChain** with an **LLM (Large Language Model)** to let you ask questions like:
 
-👉 *“Show me the top 5 students with the highest marks in Data Science.”*
-👉 *“List all students in section A scoring above 85.”*
+👉   Show me the top 5 students with the highest marks in Data Science.
+👉   List all students in section A scoring above 85.
 
 The system automatically:
 
@@ -14,12 +14,12 @@ The system automatically:
 
 ✨ Features
 
-* 🗣️ Natural Language Queries** – No SQL knowledge required
-* ⚡ Automatic SQL Generation** – AI translates text into SQL
-* 📊 Interactive Database Exploration** – Get results instantly
-* 🔗 LangChain Integration** – Harness LLM-powered reasoning
-* 🛠️ Extensible** – Works with SQLite, MySQL, PostgreSQL, etc.
-* 🎯 Beginner-Friendly** – Simple setup and usage
+* Natural Language Queries – No SQL knowledge required
+* Automatic SQL Generation – AI translates text into SQL
+* Interactive Database Exploration – Get results instantly
+* LangChain Integration – Harness LLM-powered reasoning
+* Extensible – Works with SQLite, MySQL, PostgreSQL, etc.
+* Beginner-Friendly – Simple setup and usage
 
 🛠️ Tech Stack
 
